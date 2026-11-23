@@ -4,9 +4,7 @@
 // Tentem escrever um pouco da própria autocritica enquanto faz as tarefas
 // Depois a gente pega o que tem pronto, e monta um texto bom, é mais fácil do que pegar tudo do 0;
 
-# Peço que cada um escolha a partir de agora quais consultas quer Implementar, para dividirmos o trabalho
-## Põe o nome embaixo da que você quer fazer,
-## e descreve a ideia(para não ter duplicidade)
+# Peço que cada um escolha a partir de agora quais consultas quer Implementar, para dividirmos o trabalho. Põe o nome embaixo da que você quer fazer, e descreve a ideia(para não ter duplicidade)
 
 # 1 Apenas Seleção e Projeção;
 # 2 Apenas Seleção e Projeção;
